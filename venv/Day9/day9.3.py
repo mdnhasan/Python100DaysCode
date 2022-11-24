@@ -23,7 +23,7 @@ while not bid_finished:
     name=input("Enter Name: ")
     bid_amount=int(input("BiD amount: "))
     bid[name]=bid_amount
-    more_bid=input("Are ddfdany bidder. Yes or No: ").lower()
+    more_bid=input("Are any bidder. Yes or No: ").lower()
     if more_bid=="no":
         bid_finished=True
         highest_bidder(bidding_record=bid)
