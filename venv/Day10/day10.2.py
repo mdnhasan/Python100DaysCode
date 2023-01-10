@@ -11,11 +11,11 @@ def is_leap(year):
         return False
 
 
-def days_in_month():
+def days_in_month(year, month):
     month_days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
     if is_leap(year) and month ==2:
         return 29
-    return month_days[month]
+    return month_days[month-1]
 
 
 
