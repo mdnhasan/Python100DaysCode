@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa14a4c5-0f26-4aa1-9e35-892e0c162a78" name="Changes" comment="10.2 code update">
-      <change beforePath="$PROJECT_DIR$/venv/Day10/day10.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Day10/day10.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Day10/art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Day10/day10.3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.day10.2">
+  <component name="RunManager" selected="Python.day10.3">
     <configuration name="day10.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python100DaysCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day9.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="day10.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python100DaysCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,12 +97,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Day9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Day10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Day9/day9.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Day10/day10.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.day10.3" />
         <item itemvalue="Python.day10.2" />
         <item itemvalue="Python.day10.1" />
         <item itemvalue="Python.day9.3" />
         <item itemvalue="Python.day9.2" />
-        <item itemvalue="Python.day9.1" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +203,7 @@
       <workItem from="1670753546743" duration="3600000" />
       <workItem from="1670820690563" duration="604000" />
       <workItem from="1673153064871" duration="1217000" />
-      <workItem from="1673339621385" duration="1062000" />
+      <workItem from="1673339621385" duration="1378000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1668669192012</created>
@@ -288,7 +289,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673340262733</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="10.2 code update">
+      <created>1673340750545</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673340750545</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,6 +380,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="10.2 code update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python100DaysCode$day10_3.coverage" NAME="day10.3 Coverage Results" MODIFIED="1673341000242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Day10" />
     <SUITE FILE_PATH="coverage/Python100DaysCode$day10_1.coverage" NAME="day10.1 Coverage Results" MODIFIED="1670131776859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Day10" />
     <SUITE FILE_PATH="coverage/Python100DaysCode$day10_2.coverage" NAME="day10.2 Coverage Results" MODIFIED="1673340242466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Day10" />
   </component>
