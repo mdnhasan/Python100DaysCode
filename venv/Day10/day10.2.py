@@ -12,6 +12,7 @@ def is_leap(year):
 
 
 def days_in_month(year, month):
+    """Find Days in months (This is docstring or can say toltip of function) """
     if month>12 or month<1:
         return "Invalid Choiche"
     month_days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
