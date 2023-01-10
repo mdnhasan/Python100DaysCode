@@ -150,7 +150,7 @@ def calculator():
         answer = calculation_function(num1, num2)
 
         print(f"{num1} {operation_symbol} {num2}= {answer}")
-        user_choice= input(f"Type Y to calculating with {answer} or N to exit ").lower()
+        user_choice= input(f"Type Y to calculating with {answer} or N to exit and A to New Start ").lower()
         if user_choice=="y":
             num1=answer
         elif user_choice=="n":
