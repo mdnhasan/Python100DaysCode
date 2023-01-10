@@ -1,5 +1,5 @@
-# # from art import logo
-# # print(logo)
+from art import logo
+print(logo)
 #
 # ##Addition
 # def addtion(n1, n2):
