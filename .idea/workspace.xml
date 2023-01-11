@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa14a4c5-0f26-4aa1-9e35-892e0c162a78" name="Changes" comment="10.3 code final Calculator">
-      <change beforePath="$PROJECT_DIR$/venv/Day10/day10.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Day10/day10.3.py" afterDir="false" />
+    <list default="true" id="aa14a4c5-0f26-4aa1-9e35-892e0c162a78" name="Changes" comment="10.3 code final Calculator completed">
+      <change afterPath="$PROJECT_DIR$/venv/Day11/day11.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,7 +206,7 @@
       <workItem from="1670753546743" duration="3600000" />
       <workItem from="1670820690563" duration="604000" />
       <workItem from="1673153064871" duration="1217000" />
-      <workItem from="1673339621385" duration="8963000" />
+      <workItem from="1673339621385" duration="10801000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1668669192012</created>
@@ -319,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673349090196</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="10.3 code final Calculator completed">
+      <created>1673349324363</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1673349324363</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,7 +410,8 @@
     <MESSAGE value="10.2 code update" />
     <MESSAGE value="10.3 code update" />
     <MESSAGE value="10.3 code final Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="10.3 code final Calculator" />
+    <MESSAGE value="10.3 code final Calculator completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.3 code final Calculator completed" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python100DaysCode$day10_3.coverage" NAME="day10.3 Coverage Results" MODIFIED="1673349077528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Day10" />
