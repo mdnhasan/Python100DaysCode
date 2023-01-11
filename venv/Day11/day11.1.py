@@ -59,9 +59,33 @@
 
 #Hint 14: Ask the user if they want to restart the game. If they answer yes, clear the console and start a new game of blackjack and show the logo from art.py.
 
+import random
+def deal_card():
+    cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
+    card=random.choice(cards)
+    #print(card)
+    return card
 
+def calculate_score(cards):
+    if sum(cards)==21 and len(cards)==2:
+        return 0
 
+    if 11 in cards and sum(cards)>21:
+        cards.remove(11)
+        cards.append(1)
 
+    return sum(cards)
+
+user_card=[]
+computer_card=[]
+
+for i in range(2):
+    new_card=deal_card()
+    user_card.append(new_card)
+    computer_card.append(new_card)
+print(f"User card {user_card}")
+print(f"Computer Card{computer_card}")
+calculate_score(user_card)
 
 
 
