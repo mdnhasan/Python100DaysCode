@@ -8,7 +8,7 @@ def prime_checker(number):
     if is_prime:
         print("Prime")
     else:
-        print("Nor Prime")
+        print("Not Prime")
 
 
 
