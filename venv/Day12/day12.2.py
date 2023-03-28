@@ -35,6 +35,7 @@ def set_difficulty():
 
 
 
+
 def game():
     print(logo)
     print("Welcome to the game")
