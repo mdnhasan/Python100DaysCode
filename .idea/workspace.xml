@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa14a4c5-0f26-4aa1-9e35-892e0c162a78" name="Changes" comment="day12">
-      <change beforePath="$PROJECT_DIR$/venv/Day12/day12.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Day12/day12.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +219,8 @@
       <workItem from="1678678298721" duration="3718000" />
       <workItem from="1678790756913" duration="3342000" />
       <workItem from="1678863598187" duration="1341000" />
-      <workItem from="1679993633181" duration="3542000" />
+      <workItem from="1679993633181" duration="3976000" />
+      <workItem from="1680063490320" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1668669192012</created>
@@ -382,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679997039333</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="day12">
+      <created>1679997199581</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679997199581</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
