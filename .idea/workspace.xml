@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa14a4c5-0f26-4aa1-9e35-892e0c162a78" name="Changes" comment="day13.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Day13/day13.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Day13/day13.1.py" afterDir="false" />
-    </list>
+    <list default="true" id="aa14a4c5-0f26-4aa1-9e35-892e0c162a78" name="Changes" comment="day13.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,7 +219,7 @@
       <workItem from="1678863598187" duration="1341000" />
       <workItem from="1679993633181" duration="3976000" />
       <workItem from="1680063490320" duration="4877000" />
-      <workItem from="1680149425813" duration="2689000" />
+      <workItem from="1680149425813" duration="3499000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1668669192012</created>
@@ -420,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680080433770</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="day13.2">
+      <created>1680160110438</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1680160110438</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,11 +512,12 @@
     <MESSAGE value="day12" />
     <MESSAGE value="day13" />
     <MESSAGE value="day13.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="day13.1" />
+    <MESSAGE value="day13.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="day13.2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python100DaysCode$testingcheck.coverage" NAME="testingcheck Coverage Results" MODIFIED="1674733826072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Day11" />
-    <SUITE FILE_PATH="coverage/Python100DaysCode$day13_2.coverage" NAME="day13.2 Coverage Results" MODIFIED="1680159863342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Day13" />
+    <SUITE FILE_PATH="coverage/Python100DaysCode$day13_2.coverage" NAME="day13.2 Coverage Results" MODIFIED="1680159995827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Day13" />
     <SUITE FILE_PATH="coverage/Python100DaysCode$day12_1.coverage" NAME="day12.1 Coverage Results" MODIFIED="1678793811926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Day12" />
     <SUITE FILE_PATH="coverage/Python100DaysCode$day8_2.coverage" NAME="day8.2 Coverage Results" MODIFIED="1678104450077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Day8" />
     <SUITE FILE_PATH="coverage/Python100DaysCode$day13_1.coverage" NAME="day13.1 Coverage Results" MODIFIED="1680083054569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/venv/Day13" />
