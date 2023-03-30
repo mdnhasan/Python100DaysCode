@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa14a4c5-0f26-4aa1-9e35-892e0c162a78" name="Changes" comment="day14" />
+    <list default="true" id="aa14a4c5-0f26-4aa1-9e35-892e0c162a78" name="Changes" comment="day14">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Day14/day14.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Day14/day14.1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -219,7 +222,7 @@
       <workItem from="1678863598187" duration="1341000" />
       <workItem from="1679993633181" duration="3976000" />
       <workItem from="1680063490320" duration="4877000" />
-      <workItem from="1680149425813" duration="4069000" />
+      <workItem from="1680149425813" duration="4899000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1668669192012</created>
@@ -438,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680162304518</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="day14">
+      <created>1680162924426</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1680162924426</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
