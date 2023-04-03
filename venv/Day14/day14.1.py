@@ -33,21 +33,14 @@ while game_should_continue: ### while loop here because all other in loop data
     ### Generate a random number from data
     account_a=account_b ### account b random string set into Account A when loop through
     account_b=random.choice(data) ## again generate B to compare date
-    if account_a==account_b:
+    while account_a==account_b:
         account_b=random.choice(data)
 
     print(f"Compare A: {format_data(account_a)}") ## call function and param account
     print(vs)
     print(f"Compare B: {format_data(account_b)}")
 
-    # ### Format the account Data
-    # account_name=account_a["name"]
-    # account_description=account_a["description"]
-    # account_country=account_a["country"]
-    #
-    #
-    #
-    # print(f"{account_name} a {account_description} from {account_country}")
+
 
     ### User Guess
 
@@ -71,7 +64,6 @@ while game_should_continue: ### while loop here because all other in loop data
         print(f"Sorry you lost. The final score {score}")
         game_should_continue=False
 
-### making B to A for next
 
 
 ### Clear the screen between rounds
