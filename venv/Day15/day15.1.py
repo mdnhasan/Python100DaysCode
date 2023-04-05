@@ -1,6 +1,6 @@
 from info import MENU,resources
 
-profit=0
+
 
 def is_resource_available(oder_ingredients):
     for item in oder_ingredients:
@@ -24,7 +24,7 @@ def process_coin():
     print(total)
     return total
 
-
+profit=0
 def is_transaction_successful(money_received,cost_of_coffe):
     """Check enough money or not"""
     if money_received>cost_of_coffe:
