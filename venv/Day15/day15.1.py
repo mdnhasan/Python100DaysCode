@@ -51,7 +51,7 @@ while is_on:
         print(f"Milk: {resources['milk']}ML")
         print(f"Coffe: {resources['coffee']}ML")
         print(f"Money: ${profit} ")
-        is_on=False
+        is_on=True
     else:
         drink=MENU[user_choice]
         if is_resource_available(drink['ingredients']):
